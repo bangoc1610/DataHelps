@@ -1,0 +1,8 @@
+D:\0.NET\ClientHelp\DataHelps\DataHelps\bin\Debug\DataHelps.dll
+D:\0.NET\ClientHelp\DataHelps\DataHelps\bin\Debug\DataHelps.pdb
+D:\0.NET\ClientHelp\DataHelps\DataHelps\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\0.NET\ClientHelp\DataHelps\DataHelps\obj\Debug\DataHelps.csprojAssemblyReference.cache
+D:\0.NET\ClientHelp\DataHelps\DataHelps\obj\Debug\DataHelps.csproj.CoreCompileInputs.cache
+D:\0.NET\ClientHelp\DataHelps\DataHelps\obj\Debug\DataHelps.csproj.CopyComplete
+D:\0.NET\ClientHelp\DataHelps\DataHelps\obj\Debug\DataHelps.dll
+D:\0.NET\ClientHelp\DataHelps\DataHelps\obj\Debug\DataHelps.pdb

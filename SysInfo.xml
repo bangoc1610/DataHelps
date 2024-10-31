@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+    <!-- Phần cấu hình cho kết nối SQL Server -->
+    <SQLServerConnection>
+        <DBIP>127.0.0.1</DBIP>            <!-- Địa chỉ IP của SQL Server -->
+        <DBName>MyDatabase</DBName>       <!-- Tên cơ sở dữ liệu SQL Server -->
+        <UID>sa</UID>                     <!-- Tên người dùng SQL Server -->
+        <PWD>your_password</PWD>          <!-- Mật khẩu SQL Server -->
+        <Port>1433</Port>                 <!-- Cổng SQL Server (mặc định là 1433) -->
+    </SQLServerConnection>
+
+    <!-- Phần cấu hình cho kết nối Oracle -->
+    <OracleConnection>
+        <DBIP>127.0.0.1</DBIP>            <!-- Địa chỉ IP của Oracle -->
+        <DBName>XE</DBName>               <!-- Tên dịch vụ (SID) của Oracle, ví dụ: XE -->
+        <UID>system</UID>                 <!-- Tên người dùng Oracle -->
+        <PWD>your_password</PWD>          <!-- Mật khẩu Oracle -->
+        <Port>1521</Port>                 <!-- Cổng Oracle (mặc định là 1521) -->
+    </OracleConnection>
+</Configuration>
