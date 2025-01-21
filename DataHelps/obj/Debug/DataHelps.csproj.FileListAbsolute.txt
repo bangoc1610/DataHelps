@@ -6,3 +6,11 @@ D:\0.NET\ClientHelp\DataHelps\DataHelps\obj\Debug\DataHelps.csproj.CoreCompileIn
 D:\0.NET\ClientHelp\DataHelps\DataHelps\obj\Debug\DataHelps.csproj.CopyComplete
 D:\0.NET\ClientHelp\DataHelps\DataHelps\obj\Debug\DataHelps.dll
 D:\0.NET\ClientHelp\DataHelps\DataHelps\obj\Debug\DataHelps.pdb
+D:\0.NET\ClientHelp\DataHelps - thu vien OK\DataHelps\bin\Debug\DataHelps.dll
+D:\0.NET\ClientHelp\DataHelps - thu vien OK\DataHelps\bin\Debug\DataHelps.pdb
+D:\0.NET\ClientHelp\DataHelps - thu vien OK\DataHelps\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\0.NET\ClientHelp\DataHelps - thu vien OK\DataHelps\obj\Debug\DataHelps.csproj.AssemblyReference.cache
+D:\0.NET\ClientHelp\DataHelps - thu vien OK\DataHelps\obj\Debug\DataHelps.csproj.CoreCompileInputs.cache
+D:\0.NET\ClientHelp\DataHelps - thu vien OK\DataHelps\obj\Debug\DataHelps.csproj.Up2Date
+D:\0.NET\ClientHelp\DataHelps - thu vien OK\DataHelps\obj\Debug\DataHelps.dll
+D:\0.NET\ClientHelp\DataHelps - thu vien OK\DataHelps\obj\Debug\DataHelps.pdb
